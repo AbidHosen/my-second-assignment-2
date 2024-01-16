@@ -505,7 +505,8 @@ main{
 	background-image: url(./Images/Group\ 39.png);
 	background-repeat: no-repeat;
 	padding: 250px 0px;
-    position: relative;
+	position: relative;
+	margin-bottom: 25px;
 }
 .images-box {
 	border-radius: 16px;
@@ -558,6 +559,7 @@ main{
     background-repeat: no-repeat;
     padding: 250px 0px;
     position: relative;
+    margin-bottom: 25px;
 }
 .images-boxsize{
     border-radius: 16px;

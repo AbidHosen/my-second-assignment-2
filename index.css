@@ -352,6 +352,20 @@ main{
     display: flex;
     justify-content: space-between;
     gap: 15px;
+   
+}
+.right-text{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.right-text h1 {
+	position: absolute;
+	bottom: 173px;
+	color: #FFF;
+	z-index: 1;
+	position: relative;
 }
 .last-image img{
     width: 100%;
